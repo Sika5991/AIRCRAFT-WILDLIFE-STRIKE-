@@ -7,10 +7,10 @@ This repository contains code and data for analyzing aircraft wildlife strike in
 The goal of this project is to conduct a comprehensive analysis of aircraft wildlife strike data to address key questions such as:
 
 - What bird species are most frequently involved in strikes?
-- Which regions experience the highest strike rates per capita?
-- Is there a significant relationship between aircraft models and strike frequency?
-- How has the volume of strikes changed over time?
-- When do strikes most commonly occur throughout the year?
+- What phase of the flight are strikes the most frequent?
+- - How has the volume of strikes changed over time?
+- Is there a significant relationship between wildlife warnings and damage?
+- What part of the plane are most likely to be impacted?
 
 ## Data Sources
 
@@ -31,13 +31,6 @@ To reproduce the analysis or explore the code further, follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 2. Install the required dependencies listed in `requirements.txt`.
 3. Run the Jupyter notebooks in the order mentioned above to replicate the analysis.
-
-## Results
-
-Key findings from the analysis include:
-- Identification of top bird species involved in strikes.
-- Regional patterns revealing areas with high strike rates.
-- Statistical insights into the relationship between aircraft models and strike frequency.
 
 ## License
 
